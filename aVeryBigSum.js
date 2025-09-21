@@ -31,7 +31,11 @@ function readLine() {
 
 function aVeryBigSum(ar) {
     // Write your code here
-
+    let aVeryBigSum=0;
+    for (let i=0; i<=ar[i]; i++) {
+        aVeryBigSum+=ar[i];
+    }
+    return aVeryBigSum;
 }
 
 function main() {
